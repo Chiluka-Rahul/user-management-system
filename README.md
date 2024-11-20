@@ -54,5 +54,4 @@ The **User Management Dashboard** is a web application that allows users to view
 
 ---
 
-This comprehensive guide and code implementation should equip you with a fully functional **User Management Dashboard**. Feel free to clone the repository, explore the code, and customize it further to suit your specific needs. If you have any questions or need further assistance, don't hesitate to reach out!
 
