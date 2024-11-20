@@ -1,0 +1,66 @@
+
+.user-card-container {
+    padding: 20px;
+    background: #f4f6f8;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .modern-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .modern-table th,
+  .modern-table td {
+    padding: 12px 15px;
+    text-align: left;
+  }
+  
+  .modern-table thead {
+    background: #007bff;
+    color: white;
+  }
+  
+  .modern-table tbody tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .modern-table tbody tr:last-child {
+    border-bottom: none;
+  }
+  
+  .modern-table tbody tr:hover {
+    background: #f1f5f9;
+  }
+  
+  .edit-btn,
+  .delete-btn {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .edit-btn {
+    background: #28a745;
+  }
+  
+  .edit-btn:hover {
+    background: #218838;
+  }
+  
+  .delete-btn {
+    background: #dc3545;
+    margin-left: 8px;
+  }
+  
+  .delete-btn:hover {
+    background: #c82333;
+  }
+  
